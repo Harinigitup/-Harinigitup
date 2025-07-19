@@ -29,7 +29,7 @@ I'm currently pursuing my Bachelor's degree in Computer Science Engineering from
 - **Intermediate:** HTML, CSS, JAVASCRIPT
 
 ### Tools & Technologies
-- Git, GitHub, VS Code, React
+- Git, GitHub, VS Code, Eclipse
 
 ## Projects
 ### Reebok E-Commerce Website
